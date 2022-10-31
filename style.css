@@ -1,0 +1,159 @@
+body {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+
+
+.block {
+    border: 1px solid rgb(29, 16, 102);
+    padding: 5px;
+    display: flex;
+    background-color: #1F2937;
+    color: white;
+    justify-content: space-around;
+}
+.block1 {
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+   
+}
+.block2 {
+    border: 1px solid green;
+    width: 400px;
+}
+.sign{
+    align-self: flex-start;
+    margin-top: 20px;
+
+}
+.header1 {
+    display: flex;
+    gap: 16px;
+
+}
+.this {
+    font-size: 48px;
+    font-weight: bold;
+    color: #F9FAF8;
+    border: 1px solid white;
+    
+}
+.iam {
+    border: 1px solid green;
+    margin-top: -30px;
+}
+.header {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+/* second block */
+.blocka {
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 300px;
+}
+.some {
+    border: 1px solid green;
+}
+.chain {
+    border: 1px solid black;
+    width: 400px;
+    display: flex;
+    gap: 80px;
+    height: 100px;
+    width: 600px;
+    justify-content: space-between;
+    align-items: center;
+}
+.cube1 {
+    border: 1px solid blue;
+    width: 100px;
+    height: 100px;
+    
+}
+.cube2 {
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
+}
+.cube3 {
+    border: 1px solid blue;
+    width: 100px;
+    height: 100px;
+}
+.cube4 {
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
+}
+.foot{
+    border: 1px solid yellow;
+    width: 600px;
+    display: flex;
+    gap: 100px;
+}
+/*  third block */
+.blockb {
+    border: 1px solid green;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: grey;
+}
+.first{
+    border: 1px solid yellow;
+    width: 400px;
+    margin-top: 70px;
+}
+.second {
+    border: 1px solid blue;
+    margin-left: 280px;
+    margin-top: -20px;
+}
+
+/* fourth block */
+.blockc {
+    border: 1px solid orange;
+    margin: 40px 200px;
+    
+    
+    
+   
+}
+.first1{
+    border: 1px solid white;
+    margin-bottom: -10px;
+}
+.second1 {
+    border: 1px solid rgb(188, 255, 30);
+}
+.signup {
+    border: 1px solid rgb(44, 115, 196);
+    align-self: center;
+    
+}
+.lol{
+    border: 1px solid red;
+}
+.container {
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-around;
+   
+}
+.square {
+    border: 1px solid green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: white;
+    padding: 10px 0;
+}
